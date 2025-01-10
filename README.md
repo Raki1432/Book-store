@@ -1,6 +1,6 @@
 # Book Store API
 
-This repository contains the code for a simple Book Store API built with Go. It provides endpoints to create, read, update, and delete book records in a database. The project is a great starting point for learning how to build RESTful APIs using Go.
+This repository contains the code for a simple Book Store API built with Go. It provides endpoints to (CRUD)create, read, update, and delete book records in a database. The project is a great starting point for learning how to build RESTful APIs using Go.
 
 ## Features
 
